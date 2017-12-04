@@ -6,7 +6,7 @@ This code repo contains all code necessary to replicate this experiment.  In par
 
 The following may be useful to you:  (1) 3D morphable models (note that we could not include the Cadillac model due to licensing issues), (2) 2D images normalized and with their brands removed, (3) respondant data regarding which car images received which partial rankings for design attributes, and (4) analysis code for using the design freedom distance metric.
 
-Note that all data is anonymized from the crowds used in this study.  Moreover, the web application code is not included in this open source repository due to security conflicts.  If you would like help setting up your own experiment, please email the corresponding author at aburnap@umich.edu.
+Note that all data is anonymized from the crowds used in this study.  Moreover, the web application code is not included in this open source repository due to security conflicts.  If you would like help setting up your own experiment, please email the corresponding author at aburnap@mit.edu.
 
 
 ## Installation
