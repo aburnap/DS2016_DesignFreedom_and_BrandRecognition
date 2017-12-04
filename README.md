@@ -1,4 +1,4 @@
-## Balancing Design Freedom and Brand Recognition in the Evolution of Brand Character
+## 2016 Design Science Journal - Balancing Design Freedom and Brand Recognition in the Evolution of Brand Character
 
 Code for the 2016 Design Science Journal paper, and 2015 International Design Engineering Technical Conference Paper for measuring both design freedom and brand recognition using both 2D images and 3D morphable models.  [The open-access paper may be found here](https://www.cambridge.org/core/journals/design-science/article/balancing-design-freedom-and-brand-recognition-in-the-evolution-of-automotive-brand-styling/933E383D85830C569F8F77BD2FD314A0).
 
